@@ -1,0 +1,22 @@
+main{
+    width: 800px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+img{
+    height: 250px;
+    margin: 5px;
+}
+
+header img{
+    max-width: 100%;
+}
